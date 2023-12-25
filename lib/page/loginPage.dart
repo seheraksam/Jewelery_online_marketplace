@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kokona/navbar/NavBar.dart';
 
 class LoginPage extends StatefulWidget {
   @override
