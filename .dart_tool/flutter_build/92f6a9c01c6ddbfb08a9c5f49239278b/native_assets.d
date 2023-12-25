@@ -1,0 +1,1 @@
+ /Users/seheraksam/StudioProjects/Jewelery_online_marketplace/.dart_tool/flutter_build/92f6a9c01c6ddbfb08a9c5f49239278b/native_assets.yaml: 

@@ -15,11 +15,12 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Container(
       decoration: const BoxDecoration(
-          gradient: LinearGradient(
-        begin: Alignment.topRight,
-        end: Alignment.bottomLeft,
-        colors: [Color(0xFFEEF5FF), Color(0XFFFFC0D9)],
-      )),
+        gradient: LinearGradient(
+          begin: Alignment.topRight,
+          end: Alignment.bottomLeft,
+          colors: [Color(0xFFEEF5FF), Color(0XFFFFC0D9)],
+        ),
+      ),
       child: Scaffold(
         backgroundColor: Colors.transparent,
         body: Container(
